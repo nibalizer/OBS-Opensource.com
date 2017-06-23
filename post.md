@@ -1,4 +1,4 @@
-OBS is open Broadcaster Software. It's latest version, OBS-Studio, is in now in version 19.0.2. Binary downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
+OBS is open Broadcaster Software. It's latest version, OBS-Studio, is in now in version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
 
 ## What is OBS-Studio
 
