@@ -33,7 +33,7 @@ Streaming to twitch.tv is extremely popular. Watching these streams is also popu
 
 OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project. The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet, instead of the more common Freenode network. This illustrates how OBS forms it's identity as a piece of gaming software first and a piece of Free/Open Source software second. OBS has a very active forums on the main website. The forums is where users post plugins that they have created.
 
-!(Community chat guidelines)[ob-community-chat-agreement.png]
+![Community chat guidelines](ob-community-chat-agreement.png)
 
 Figure 3: Users who click 'use chat' on the OBS website must agree to be police before they are joined to quakenet over a web bridge.
 
