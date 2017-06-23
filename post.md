@@ -7,9 +7,9 @@ At it's most basic, OBS-Studio is software for recording the desktop. It can be 
 Going further, OBS allows the user to record each window of the desktop environment separately. The user can then combine these windows into scenes. A scene can be constructed out of sources: application windows, static images, webcam feeds, and more. Each source can be positioned and layered to give the scene a polished look and feel.  
 
 ![Screen Shot of OBS](obs-view-1.png)
-Figure 1: A basic scene with four sources, a blue background (bottom layer), a text source for the title, a terminal window being captured, and a webcam source of the author.
+Figure 1: A basic scene with four sources, a blue background (bottom layer), a text source for the title, a terminal window being captured, and a webcam source of the author. Note the red control points around the terminal source. Sources can be moved, resized, and layered on top of each other.
 
-This is a very basic scene construction. The tool can be used (especially combined with other graphics software) to make beautiful and seamless scenes. The scenes can be switched from one to the other at the push of a button.
+This is a very basic scene construction. The tool can be used (especially when combined with other graphics software) to make beautiful and seamless scenes. The scenes can be switched from one to the other at the push of a button.
 
 ![Short video/gif clip of using obs to switch scenes](obs-example.gif)
 
