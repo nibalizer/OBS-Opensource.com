@@ -55,11 +55,16 @@ One: Technically, it is really cool. What it can do and what the user can do wit
 
 Two: In this age of corporations throwing dozens of developers at OpenStack, Docker and kubernetes; startups with open core products; and declining support for core FLOSS software, it is encouraging to see a small, self-sustaining, and successful project - let alone a desktop app project.
 
-Three: OBS is, as the gamers would put it, hype. 90k twitter followers, companies putting 'Works with OBS' in their product marketing, antivirus companies working with OBS on whitelisting, etc.  Some thoughts from the twitterverse:
+Three: OBS is, as the gamers would put it, hype. 90k twitter followers, companies putting 'Works with OBS' in their product marketing, antivirus companies working with OBS on whitelisting, etc. This project has an excited userbase that really likes the software. Few if any FLOSS projects have this.
 
 https://twitter.com/laserring/status/873037202862645256
+
 https://twitter.com/OGBUSTA/status/866085482945490945
+
 https://twitter.com/kayosgirl86/status/859529074984792065
+
 https://twitter.com/Omega6ixx/status/843966705185443840
+
 https://twitter.com/FragManSaul/status/836489151679709185
+
 https://twitter.com/nathaniastv/status/865264972456108033
