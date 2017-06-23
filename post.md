@@ -1,4 +1,4 @@
-OBS is Open Broadcasting Software. It's latest version, OBS-Studio, is in now in version 19.0.2. Binary downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
+OBS is open Broadcaster Software. It's latest version, OBS-Studio, is in now in version 19.0.2. Binary downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
 
 ## What is OBS-Studio
 
@@ -31,7 +31,11 @@ Streaming to twitch.tv is extremely popular. Watching these streams is also popu
 
 ## Where does OBS come from
 
-OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project. The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet, instead of the more common Freenode network. This illustrates how OBS forms it's identity as a piece of gaming software first and a piece of Free/Open Source second. OBS also has a very active forums on their main website. The forums is where users post plugins that they have created.
+OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project. The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet, instead of the more common Freenode network. This illustrates how OBS forms it's identity as a piece of gaming software first and a piece of Free/Open Source software second. OBS has a very active forums on the main website. The forums is where users post plugins that they have created.
+
+!(Community chat guidelines)[ob-community-chat-agreement.png]
+
+Figure 3: Users who click 'use chat' on the OBS website must agree to be police before they are joined to quakenet over a web bridge.
 
 ## Advanced features
 
@@ -41,6 +45,23 @@ OBS is ready for real-time. OBS itself can render web resources directly onto th
 
 ## What is different about OBS
 
-OBS has a huge and engaged user base. It might be the highest for a project of it's size in FLOSS. This is a project with one main developer, a few other volunteers, and no one getting paid for their work. The official twitter account has 90,000 followers. For comparison, VideoLAN has been around much longer and has on 19k. The gimp might be a better comparison, since it is digital creative software, clocks in at 8k followers. To find FLOSS accounts with that kind of following we need to look at Linux (233k) and OpenStack(139k). OBS certainly doesn't have governance boards and million dollar conferences.
+OBS has a huge and engaged user base. It might be the highest for a project of it's size in FLOSS. This is a project with one main developer, a few other volunteers, and no one getting paid for their work. The official twitter account has 90,000 followers. For comparison, VideoLAN has been around much longer and has only 19k. The gimp might be a better comparison, since it is digital creative software, and clocks in at 8k followers. To find FLOSS accounts with comparable following we need to look at Linux (233k) and OpenStack(139k). These projects are in a different class entirely,, OBS certainly doesn't have governance boards and million dollar conferences.
 
 When DD-WRT first came out, one of the lines was 'turn you $50 router into a $5000 router.' The explanation was that with this piece of software you could get features that were only available in professional, expensive devices. This is essentially what OBS is doing. OBS gives the streamer tons of control over the broadcast. Control that until now hasn't been seen outside a professional TV network or sports broadcast.
+
+OBS is exciting for three reasons. 
+
+One: Technically, it is really cool. What it can do and what the user can do with it is flat out impressive.
+
+Two: In this age of corporations throwing dozens of developers at OpenStack, Docker and kubernetes; startups with open core products; and declining support for core FLOSS software, it is encouraging to see a small, self-sustaining, and successful project - let alone a desktop app project.
+
+Three: OBS is, as the gamers would put it, hype. 90k twitter followers, companies putting 'Works with OBS' in their product marketing, antivirus companies working with OBS on whitelisting, etc.  Some thoughts from the twitterverse:
+
+https://twitter.com/laserring/status/873037202862645256
+https://twitter.com/OGBUSTA/status/866085482945490945
+https://twitter.com/kayosgirl86/status/859529074984792065
+https://twitter.com/Omega6ixx/status/843966705185443840
+https://twitter.com/FragManSaul/status/836489151679709185
+
+
+This is the sentiment from Nathaniel Fabrikant, a professional StarCraft II commentator: https://twitter.com/nathaniastv/status/865264972456108033
