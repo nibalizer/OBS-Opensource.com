@@ -62,6 +62,4 @@ https://twitter.com/OGBUSTA/status/866085482945490945
 https://twitter.com/kayosgirl86/status/859529074984792065
 https://twitter.com/Omega6ixx/status/843966705185443840
 https://twitter.com/FragManSaul/status/836489151679709185
-
-
-This is the sentiment from Nathaniel Fabrikant, a professional StarCraft II commentator: https://twitter.com/nathaniastv/status/865264972456108033
+https://twitter.com/nathaniastv/status/865264972456108033
