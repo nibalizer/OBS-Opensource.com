@@ -13,7 +13,9 @@ This is a very basic scene construction. The tool can be used (especially combin
 
 ![Short video/gif clip of using obs to switch scenes](obs-example.gif)
 
-One neat thing about OBS is that desktop recording is no longer tied to the state of the desktop. The windows can be arranged by the user in any way they desire, and OBS will only record the ones it is configured to record and will arange them according to the scene layout.
+Figure 2: Gif of some basic scene switching. Quality losses are due to the giffing process.
+
+One neat thing about OBS is that desktop recording is no longer tied to the state of the desktop. The windows can be arranged by the user in any way they desire, and OBS will only record the ones it is configured to record and will arrange them according to the scene layout.
 
 OBS can create three kinds of output. It can take recordings as video files, in a variety of formats. It can stream the video output to a livestreaming service like twitch.tv or facebook live. Or it can write the video output to a dedicated monitor or projector. All three of these outputs are very useful.
 
