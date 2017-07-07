@@ -1,14 +1,13 @@
-OBS is open Broadcaster Software. It's latest version, OBS-Studio, is in now in version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
+OBS is Open Broadcaster Software. It's latest version, OBS-Studio, is in now in version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
 
 ## What is OBS-Studio
 
-At it's most basic, OBS-Studio is software for recording the desktop. It can be used to make instructional videos or other screencasts. This has been possible in Linux for years using arcane ffmpeg scripts, but OBS wraps that in a slick GUI.
+OBS is, from the website, "Free and open source software for video recording and live streaming." OBS allows the user to record multiple sources simultaneously: webcams, the desktop, even individual windows. OBS combines the sources and streams the output to services like twitch.tv and facebook live. Users can "Share your gaming, art and entertainment with the world"
 
-Going further, OBS allows the user to record each window of the desktop environment separately. The user can then combine these windows into scenes. A scene can be constructed out of sources: application windows, static images, webcam feeds, and more. Each source can be positioned and layered to give the scene a polished look and feel.  
 
 ![Screen Shot of OBS](obs-view-1.png)
 
-Figure 1: A basic scene with four sources, a blue background (bottom layer), a text source for the title, a terminal window being captured, and a webcam source of the author. Note the red control points around the terminal source. Sources can be moved, resized, and layered on top of each other.
+Figure 1: A basic scene with four sources, a blue background (bottom layer), a text source for the title, a terminal window being captured, and a webcam source of the author. Note the bounding box around the terminal source. Sources can be moved, resized, and layered on top of each other.
 
 This is a very basic scene construction. The tool can be used (especially when combined with other graphics software) to make beautiful and seamless scenes. The scenes can be switched from one to the other at the push of a button.
 
@@ -28,7 +27,7 @@ All three of these outputs are very useful.
 
 Recording to disk is useful for creating high quality videos. Recordings can be edited later in video editing software and then uploaded to a video hosting service like YouTube or Vimeo.
 
-Streaming to a livestreaming service is probably the most common use case for OBS. A huge percentage of twitch's streaming population uses OBS to stream. OBS (and twitch) use the RTMP protocol to stream video. This is why it is possible to use a completely open toolkit to broadcast on twitch. Because OBS is open source, support for new services is being added all the time. The RTMP protocol is an "open specification" from Adobe.
+Streaming to a livestreaming service is the most common use case for OBS. A huge percentage of twitch's streaming population uses OBS to stream.
 
 Displaying the output directly on a monitor (preview mode) is a less used but very powerful output method of OBS. Scene switching, graphical overlays, smooth transitions and more are all available as hotkeys to whoever is in control of the OBS application. There are many cases where an audience is watching a projector or TV screen and the production could benefit from the professional touch that OBS enables. Examples are an in-person esports tournament or a conference keynote.
 
@@ -46,7 +45,7 @@ Figure 3: Chantal "Sylvanas" Frey playing Overwatch. She adds a webcam feed and 
 
 ## Where does OBS come from
 
-OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project. The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet, instead of the more common Freenode network. This illustrates how OBS forms it's identity as a piece of gaming software first and a piece of Free/Open Source software second. OBS has a very active forums on the main website. The forums is where users post plugins that they have created.
+OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project.  OBS has a very active forums on the main website. The forums is where users post plugins that they have created.  The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet. Users can click "Community Chat" on the website and be taken to a web bridge to quakenet where they can ask questions. A group of very handsome and helpful support volunteers try to answer questions and help the users solve their issues.
 
 ![Community chat guidelines](ob-community-chat-agreement.png)
 
@@ -69,7 +68,7 @@ OmgVandi says that most OBS scenes are constructed out of a few baics sources.
 
 ![OmgVandi Stream Capture](omgvandi_screenshot.png)
 
-Figure 5: Stream screenshot from omgvandi. Note the box around her webcam and twitter and instagram tags. The border and social boxes(overlay assests) are created in graphics editing sotfware separately. Then OBS is used to layer the game, then the webcam source, then the overlay assets. Most webcams do not shoot in the widescreen format omgVandi is using, OBS can be used to crop the live video feed to a better looking aspect ratio.
+Figure 5: Stream screenshot from omgvandi. Note the box around her webcam and twitter and instagram tags. The border and social boxes(overlay assests) are created in graphics editing sotfware separately. Then OBS is used to layer the game, then the webcam source, then the overlay assets.
 
 ![Brotatoe Stream Capture](brotato_screenshot.png)
 
