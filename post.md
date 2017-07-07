@@ -1,6 +1,6 @@
-OBS is Open Broadcaster Software. It's latest version, OBS-Studio, is in now in version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
+OBS is Open Broadcaster Software. It's latest version, OBS Studio, is in now in version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
 
-## What is OBS-Studio
+## What is OBS Studio
 
 OBS is, from the website, "Free and open source software for video recording and live streaming." OBS allows the user to record multiple sources simultaneously: webcams, the desktop, even individual windows. OBS combines the sources and streams the output to services like twitch.tv and facebook live. Users can "Share [their] gaming, art and entertainment with the world"
 
