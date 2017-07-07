@@ -16,15 +16,21 @@ This is a very basic scene construction. The tool can be used (especially when c
 
 Figure 2: Gif of some basic scene switching. Quality losses are due to the giffing process.
 
-One neat thing about OBS is that desktop recording is no longer tied to the state of the desktop. The windows can be arranged by the user in any way they desire, and OBS will only record the ones it is configured to record and will arrange them according to the scene layout.
+With OBS, desktop recording is no longer tied to the state of the desktop. Windows can be arranged in any configuration, and OBS will only record the windows it is configured to record. Window arrangement in the recording is controlled by OBS.
 
-OBS can create three kinds of output. It can record video files in a variety of formats. It can stream the video output to a livestreaming service like twitch.tv or facebook live. Or it can push output to a dedicated monitor or projector. All three of these outputs are very useful.
+OBS can create three kinds of output: 
+
+* Video files on disk in a variety of formats
+* Stream the video output to a livestreaming service like twitch.tv or facebook live
+* Display output on a dedicated monitor or projector
+
+All three of these outputs are very useful.
 
 Recording to disk is useful for creating high quality videos. Recordings can be edited later in video editing software and then uploaded to a video hosting service like YouTube or Vimeo.
 
-Streaming to a livestreaming service is probably the most common use case for OBS. A huge percentage of twitch's streaming population uses OBS to stream. OBS (and twitch) use the RTMP protocol to stream video. This is why it is possible to use a completely open toolkit to broadcast on twitch. Because OBS is open source, support for new services is being added all the time.
+Streaming to a livestreaming service is probably the most common use case for OBS. A huge percentage of twitch's streaming population uses OBS to stream. OBS (and twitch) use the RTMP protocol to stream video. This is why it is possible to use a completely open toolkit to broadcast on twitch. Because OBS is open source, support for new services is being added all the time. The RTMP protocol is an "open specification" from Adobe.
 
-Displaying the output directly on a monitor(Preview mode) is a less used but very powerful output method of OBS. Scene switching, graphical overlays, smooth transitions and more are all available as hotkeys to whoever is in control of the OBS application. There are many cases where an audience is watching a projector or TV screen and the production could benefit from the professional touch that OBS enables. Examples are an in-person esports tournament or a conference keynote.
+Displaying the output directly on a monitor (preview mode) is a less used but very powerful output method of OBS. Scene switching, graphical overlays, smooth transitions and more are all available as hotkeys to whoever is in control of the OBS application. There are many cases where an audience is watching a projector or TV screen and the production could benefit from the professional touch that OBS enables. Examples are an in-person esports tournament or a conference keynote.
 
 ## Who uses OBS
 
@@ -98,3 +104,5 @@ Three: OBS is, as the gamers would put it, hype. 90k twitter followers, companie
 
 If you'd like to contract omgVandi to create some graphics for your stream, you can DM her over Twitter at @omgvandi, or send an email at cvani@rogers.com.
 
+
+Adobe RTMP - www.adope.com/devnet/rtmp.html
