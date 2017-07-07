@@ -7,7 +7,7 @@ OBS is, from the website, "Free and open source software for video recording and
 
 ## Who uses OBS
 
-Streaming to twitch.tv is extremely popular. Watching these streams is also popular. At any given time, close to a million people are watching live, while thousands are streaming. Mostly, they stream video games. Chantal "Sylvanas" Frey is a streamer from Germany. She streams to twitch.tv four to five times a week, usually playing the game Overwatch. Asked how many hours she has used OBS for, she can't quantify the number:  "been streaming for 2.5 years now, sooo many hours haha."
+Streaming to twitch.tv is extremely popular. Watching these streams is also popular. At any given time, close to a million people are watching live, while thousands are streaming. Mostly, they stream videogames. OBS is one of the most popular tools for streaming to twitch.tv. Chantal "Sylvanas" Frey is a streamer from Germany. She streams to twitch.tv four to five times a week, usually playing the game Overwatch. Asked how many hours she has used OBS for, she can't quantify the number:  "been streaming for 2.5 years now, sooo many hours haha."
 
 
 ![Sylvanas Stream Capture](sylvanas_sc2_cap.png)
@@ -17,7 +17,7 @@ Figure 3: Chantal "Sylvanas" Frey playing Overwatch. She adds a webcam feed and 
 
 ## Where does OBS come from
 
-OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project.  OBS has a very active forums on the main website. The forums is where users post plugins that they have created.  The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet. Users can click "Community Chat" on the website and be taken to a web bridge to quakenet where they can ask questions. A group of helpful (and handsome) support volunteers try to answer questions and help the users solve their issues.
+OBS is developed by a small team working in the open. Most of the code has been written by jp9000/Jim. Several other people have made serious contributions to the project.  OBS has a very active forums on the main website. The forums is where users post plugins that they have created.  OBS has a rich plugin ecosystem. The project has two very active IRC channels: '#obsproject' for user chat and support, and '#obs-dev' for developer chatter. Both of these IRC channels are on Quakenet. Users can click "Community Chat" on the website and be taken to a web bridge to quakenet where they can ask questions. A group of helpful (and handsome) support volunteers try to answer questions and help the users solve their issues.
 
 ![Community chat guidelines](ob-community-chat-agreement.png)
 
