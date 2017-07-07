@@ -83,23 +83,18 @@ Two: In this age of corporations throwing dozens of developers at OpenStack, Doc
 
 Three: OBS is, as the gamers would put it, hype. 90k twitter followers, companies putting 'Works with OBS' in their product marketing, antivirus companies working with OBS on whitelisting, etc. This project has a large excited userbase, most of whom aren't selecting it based on license.  Just look at some of these tweets. We asked Sylvanas "Did you know OBS is Open Source? What does that mean to you?" Her response: "never thought about it."
 
-https://twitter.com/laserring/status/873037202862645256
-
-https://twitter.com/OGBUSTA/status/866085482945490945
-
-https://twitter.com/kayosgirl86/status/859529074984792065
-
-https://twitter.com/Omega6ixx/status/843966705185443840
-
-https://twitter.com/FragManSaul/status/836489151679709185
-
-https://twitter.com/nathaniastv/status/865264972456108033
+* https://twitter.com/laserring/status/873037202862645256
+* https://twitter.com/OGBUSTA/status/866085482945490945
+* https://twitter.com/kayosgirl86/status/859529074984792065
+* https://twitter.com/Omega6ixx/status/843966705185443840
+* https://twitter.com/FragManSaul/status/836489151679709185
+* https://twitter.com/nathaniastv/status/865264972456108033
 
 
-omgvandi stream - Twitch.tv/omgvandi
-omgvandi stream - Twitch.tv/brotatoe
-sylvanas stream - Twitch.tv/sylvanas_sc2
-Overwatch is a registered trademark of Blizzard Entertainment
+* omgVandi stream - Twitch.tv/omgvandi
+* Brotatoe stream - Twitch.tv/brotatoe
+* Sylvanas stream - Twitch.tv/sylvanas_sc2
+* Overwatch is a registered trademark of Blizzard Entertainment
 
 If you'd like to contract omgVandi to create some graphics for your stream, you can DM her over Twitter at @omgvandi, or send an email at cvani@rogers.com.
 
