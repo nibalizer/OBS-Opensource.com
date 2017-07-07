@@ -2,7 +2,7 @@ OBS is open Broadcaster Software. It's latest version, OBS-Studio, is in now in 
 
 ## What is OBS-Studio
 
-At it's most basic, OBS-Studio is software for recording the desktop. It can be used to make instructional videos or other screencasts. This has been possible in Linux for years using arcane ffmpeg scripts but OBS wraps that in a slick GUI.
+At it's most basic, OBS-Studio is software for recording the desktop. It can be used to make instructional videos or other screencasts. This has been possible in Linux for years using arcane ffmpeg scripts, but OBS wraps that in a slick GUI.
 
 Going further, OBS allows the user to record each window of the desktop environment separately. The user can then combine these windows into scenes. A scene can be constructed out of sources: application windows, static images, webcam feeds, and more. Each source can be positioned and layered to give the scene a polished look and feel.  
 
