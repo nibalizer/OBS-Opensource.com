@@ -48,7 +48,7 @@ Figure 6: Stream screenshot from brotatoe. Advanced streamers usually have sever
 
 OBS has a huge and engaged user base. It might be the highest for a project of it's size in FLOSS. This is a project with one main developer, a few other volunteers, and no one getting paid for their work. The windows version of 19.0.2 has been downloaded from github 2.3 million times in 26 days since it's release. The 19.0.3 version has been downloaded 133 thousand times in less than two days. The official twitter account has 90,000 followers.
 
-When DD-WRT first came out, one of the lines was 'turn you $50 router into a $5000 router.' The explanation was that with this piece of software you could get features that were only available in professional, expensive devices. This is essentially what OBS is doing. OBS gives the streamer tons of control over the broadcast. Control that until now hasn't been seen outside a professional TV network or sports broadcast.
+When DD-WRT first came out, one of the lines was 'turn your $50 router into a $5000 router.' The explanation was that with this piece of software you could get features that were only available in professional, expensive devices. This is essentially what OBS is doing. OBS gives the streamer tons of control over the broadcast. Control that until now hasn't been seen outside a professional TV network or sports broadcast.
 
 OBS is exciting for three reasons. 
 
