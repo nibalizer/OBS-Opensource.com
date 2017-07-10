@@ -1,4 +1,4 @@
-OBS is Open Broadcaster Software. It's latest version, OBS Studio, is in now in version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
+OBS is Open Broadcaster Software. It's latest version, OBS Studio, is in now on version 19.0.3. Installer downloads are available for Mac and Windows, and repositories are available for a variety of Linux flavors.
 
 ## What is OBS Studio
 
@@ -30,7 +30,7 @@ Caroline "omgVandi" Vani is a freelance graphic designer and streamer on Twitch.
 OmgVandi says that most OBS scenes are constructed out of a few basic sources:
 
 * Webcam video source: "A lot of people will have a greenscreen. Some people have the straight camera box, but if they do, they have a real life background that fits the style of the stream. The background of the camera becomes a relevant part of the stream." 
-* Game capture
+* Game capture. OBS can capture fullscreen games, windowed gaems, or the raw desktop.
 * A browser source that displays new followers, new donations, and subscriptions. Browser sources are dynamic web content rendered onto the stream. 
 * Static or animated graphics to provide borders and branding: "My job as a graphic designer is to ... create the visuals that go into browser sources, or to create a static PNG overlay that goes on top". "Static PNG overlays are pretty standard for people that don't have a ton of money to spend on custom designs. They look really good, they're clean, most of them can be nice and simple," OmgVandi says. 
 
@@ -46,7 +46,7 @@ Figure 6: Stream screenshot from brotatoe. Advanced streamers usually have sever
 
 ## What is different about OBS
 
-OBS has a huge and engaged user base. It might be the highest for a project of it's size in FLOSS. This is a project with one main developer, a few other volunteers, and no one getting paid for their work. The windows version of 19.0.2 has been downloaded from github 2.3 million times in 26 days since it's release. The 19.0.3 version has been downloaded 133 thousand times in less than two days. The official twitter account has 90,000 followers.
+OBS has a huge and engaged user base, especially relative to the size of the developement team. This is a project with one main developer, a few other volunteers, and no one getting paid for their work. The windows version of 19.0.2 has been downloaded from github 2.3 million times in 26 days since it's release. The 19.0.3 version has been downloaded over a hundred thousand times in less than two days. The official twitter account has 90,000 followers.
 
 When DD-WRT first came out, one of the lines was 'turn your $50 router into a $5000 router.' The explanation was that with this piece of software you could get features that were only available in professional, expensive devices. This is essentially what OBS is doing. OBS gives the streamer tons of control over the broadcast. Control that until now hasn't been seen outside a professional TV network or sports broadcast.
 
