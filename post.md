@@ -25,11 +25,11 @@ Figure 3: Users who click 'use chat' on the OBS website must agree to be polite 
 
 ## Sources
 
-Caroline "omgVandi" Vani is a freelance graphic designer and streamer on Twitch. As part of her graphic design business she designs graphics and overlays for streamers. Streamers use OBS combined with staic grahpics and animated browser sources to create good looking streams.
+Caroline "omgVandi" Vani is a freelance graphic designer and streamer on Twitch. As part of her graphic design business she designs graphics and overlays for streamers. Streamers use OBS combined with static grahpics and animated browser sources to create good looking streams.
 
 OmgVandi says that most OBS scenes are constructed out of a few basic sources:
 
-* Webcam video source: "A lot of people will have a greenscreen. Some people have the straight camera box, but if they do, they have a real life background that fits the style of the stream. The background of the camera becomes a relevant part of the stream." 
+* Webcam video source: "Some people will have a greenscreen. Most have the straight camera box and the best have a real life background that fits the style of the stream"
 * Game capture. OBS can capture fullscreen games, windowed gaems, or the raw desktop.
 * A browser source that displays new followers, new donations, and subscriptions. Browser sources are dynamic web content rendered onto the stream. 
 * Static or animated graphics to provide borders and branding: "My job as a graphic designer is to ... create the visuals that go into browser sources, or to create a static PNG overlay that goes on top". "Static PNG overlays are pretty standard for people that don't have a ton of money to spend on custom designs. They look really good, they're clean, most of them can be nice and simple," OmgVandi says. 
@@ -41,7 +41,7 @@ Figure 5: Stream screenshot from omgvandi. Note the box around her webcam and tw
 
 ![Brotatoe Stream Capture](brotato_screenshot.png)
 
-Figure 6: Stream screenshot from brotatoe. Advanced streamers usually have several OBS scenes. This is a screnshot from the 'Out of game' or 'Webcam focus' scene from popular streamer Brotato. The effort and quality put into the border graphics is plain to see. At the bottom of the scene, the graphics create (with the brown background) windows for dynamic content to be displayed. Brotato is using dynamic web content to display the names and values of his most rescent supporters. The upside-down cup in the corner is also a browser source - a virtual tip jar called a 'bit cup'.
+Figure 6: Stream screenshot from brotatoe. Advanced streamers usually have several OBS scenes. This is a screnshot from the 'Out of game' or 'Webcam focus' scene from popular streamer Brotatoe. The effort and quality put into the border graphics is plain to see. At the bottom of the scene, the graphics create (with the brown background) windows for dynamic content to be displayed. Brotatoe is using dynamic web content to display the names and values of his most rescent supporters. The upside-down cup in the corner is also a browser source - a virtual tip jar called a 'bit cup'.
 
 
 ## What is different about OBS
